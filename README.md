@@ -12,31 +12,39 @@ A simple Todo List application built using React and Vite. It demonstrates how t
 ## Setup Instructions
 
 ### Prerequisites
+
 - Node.js (v14.0.0 or later)
 - npm (or Yarn)
 
 ### Installation Steps
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/yourusername/react-todo.git
    cd react-todo
    ```
 
 2. **Install Dependencies**
+
    ```bash
    npm install
    ```
+
    Or, if you prefer Yarn:
+
    ```bash
    yarn install
    ```
 
 3. **Run the Development Server**
+
    ```bash
    npm run dev
    ```
+
    Or, with Yarn:
+
    ```bash
    yarn dev
    ```
