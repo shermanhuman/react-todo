@@ -1,6 +1,8 @@
 # React Todo List with Vite
 
-A simple Todo List application built using React and Vite. It demonstrates how to set up a basic React project with Vite, manage state with hooks, and handle user input.  It was built following [this Youtube tutorial by Webdev simplified](https://www.youtube.com/watch?v=Rh3tobg7hEo&t=68s).
+A simple Todo List application built using React and Vite. It demonstrates how to set up a basic React project with Vite, manage state with hooks, and handle user input.  It was built following [this Youtube tutorial by Webdev Simplified](https://www.youtube.com/watch?v=Rh3tobg7hEo&t=68s).
+
+![image](https://github.com/user-attachments/assets/6fb94043-f1ba-4ecc-bb08-4d3260a41e72)
 
 ## Features
 
